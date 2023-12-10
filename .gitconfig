@@ -1,0 +1,7 @@
+[user]
+	name = shm
+	email = m11c3.sh@gmail.com
+[core]
+	ignorecase = false
+[color]
+	ui = true
