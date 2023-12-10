@@ -3,5 +3,8 @@
 	email = m11c3.sh@gmail.com
 [core]
 	ignorecase = false
+	quotepath = false
 [color]
 	ui = true
+[alias]
+	psuh = push
